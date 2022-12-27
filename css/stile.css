@@ -385,6 +385,7 @@
   font-size: 18px;
   line-height: 140.62%;
   color: #000000;
+  margin: 10px 0;
 }
 
 .more {
@@ -472,7 +473,13 @@
 
   .blog-card-info {
     margin-left: 0;
-    padding: 50px;
+    padding: 30px;
+  }
+
+  .blog-card-title {
+    margin: 10px 0;
+    font-size: 30px;
+    line-height: normal;
   }
 
   .card-info {
